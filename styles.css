@@ -23,6 +23,7 @@ header h1{
 }
 
 nav ul {
+    font-family: 'future';
     list-style: none;
     padding: 0;
 }
