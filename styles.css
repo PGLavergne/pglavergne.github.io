@@ -25,7 +25,7 @@ header h1{
 nav ul {
     font-family: 'future';
     list-style: none;
-    padding: 0;
+    padding: 10px;
 }
 nav ul li {
     display: inline;
