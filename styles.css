@@ -18,7 +18,8 @@ header {
 }
 
 header h1{
-    font-size: clamp(24px, 10vw, 60px)
+    font-size: clamp(24px, 10vw, 60px);
+    font-style: "text-transform: uppercase;";
 }
 
 nav ul {
