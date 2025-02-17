@@ -13,8 +13,12 @@ header {
     font-family: 'future';
     justify-content: center;
     align-items: center;
-    font-size: 50px;
 }
+
+header h1{
+    font-size: clamp(24px, 5vw, 60px)
+}
+
 nav ul {
     list-style: none;
     padding: 0;
