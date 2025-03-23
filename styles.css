@@ -46,13 +46,6 @@ main {
     border-radius: 100px;
     font-family: 'future-main';
 }
-footer {
-    
-    margin-top: 20px;
-    font-size: 10px;
-    color: grey;
-    position:fixed;bottom:0;left:0;right:0;height:30px;
-}
 
 @font-face {
     font-family: 'future';
@@ -82,4 +75,11 @@ footer {
     border: 1px solid #ccc;
     border-radius: 5px;
     resize: vertical;
+}
+
+footer {
+    margin-top: 20px;
+    font-size: 10px;
+    color: grey;
+    position:fixed;bottom:0;left:0;right:0;height:30px;
 }
